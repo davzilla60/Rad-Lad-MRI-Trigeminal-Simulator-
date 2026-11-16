@@ -1,0 +1,24 @@
+{
+  "_note": "DICOM patient mm (LPS: +x patient left, +y posterior, +z superior). Picked by eye on gridded views of the T2 volume, +/- 3 mm. Not checked by a radiologist.",
+  "midline_x": -9.0,
+  "pons": [-9.0, 9.0, -43.0],
+  "brainstem_tilt_deg": -6.6,
+  "_tilt": "Lean of the back of the pons (floor of the fourth ventricle) on the sagittal: negative = its upper end lies further back.",
+  "isocentre": [0.0, 0.0, 0.0],
+  "lm": {
+    "rez_r":  [-27.0,  3.0, -46.0],
+    "rez_l":  [ 10.0,  3.0, -46.0],
+    "mc_r":   [-25.0, -12.0, -44.0],
+    "mc_l":   [  8.5, -12.0, -44.0],
+    "pons_top": [-9.0, 6.0, -29.0],
+    "pons_bot": [-9.0, 7.0, -56.0],
+    "v4":     [-9.0, 23.0, -42.0],
+    "pons_front": [-9.0, -2.0, -43.0],
+    "vertex": [-9.0, 20.0, 46.0],
+    "fmag":   [-9.0, 12.0, -86.0],
+    "front":  [-9.0, -56.0, 5.0],
+    "back":   [-9.0, 77.0, 0.0],
+    "temp_r": [-66.0, 8.0, -20.0],
+    "temp_l": [ 48.0, 8.0, -20.0]
+  }
+}
